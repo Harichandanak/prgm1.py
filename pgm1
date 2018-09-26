@@ -1,0 +1,7 @@
+l=int(input(" "))
+if (l>0):
+	print("Positive number")
+elif(l==0):
+	print("Zero")
+else:
+	print("Negative number")
